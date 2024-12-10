@@ -5,9 +5,11 @@
   "name": "stacks_and_queues_exercise",
   "version": "1.0.0",
   "main": "queue.js",
-  "devDependencies": {},
+  "devDependencies": {
+    "jest": "^29.7.0"
+  },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "jest"
   },
   "keywords": [],
   "author": "",
